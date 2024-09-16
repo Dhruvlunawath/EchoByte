@@ -1,7 +1,6 @@
 import streamlit as st
 import numpy as np
 import nltk
-import heapq
 import speech_recognition as sr
 from sumy.parsers.plaintext import PlaintextParser
 from sumy.nlp.tokenizers import Tokenizer
